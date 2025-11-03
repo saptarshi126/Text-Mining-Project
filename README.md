@@ -1,6 +1,8 @@
 
 
 # Resume Analyzer
+# Saptarshi kundu
+# 229310147
 
 **Resume Analyzer** is a prototype web application that allows users to upload multiple resumes and compare them against a job description using vectorization and cosine similarity. The project is built using Python, Flask, and scikit-learn. It can also be enhanced using machine learning models for better efficiency and accuracy — work on this is in progress.
 
@@ -17,13 +19,10 @@
 
 ---
 
-## APP Interface
 
-![App Interface](https://github.com/SeekAI-786/Resume-Analyzer/blob/main/r2.png)
 
 ---
 
-![App Interface](https://github.com/SeekAI-786/Resume-Analyzer/blob/main/r1.png)
 
 
 ---
@@ -98,12 +97,3 @@ Contributions are welcome.
 
 ---
 
-## Notes
-
-This is a prototype and may not handle every edge case. It serves as a proof-of-concept for resume screening and ranking based on textual similarity. For production use, improvements in model robustness and user interface are recommended.
-
----
-
-## License
-
-MIT License
